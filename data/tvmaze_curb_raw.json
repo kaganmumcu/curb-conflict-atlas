@@ -1,0 +1,3542 @@
+{
+  "id": 551,
+  "url": "https://www.tvmaze.com/shows/551/curb-your-enthusiasm",
+  "name": "Curb Your Enthusiasm",
+  "type": "Scripted",
+  "language": "English",
+  "genres": [
+    "Comedy"
+  ],
+  "status": "Ended",
+  "runtime": 30,
+  "averageRuntime": 32,
+  "premiered": "2000-10-15",
+  "ended": "2024-04-07",
+  "officialSite": "http://www.hbo.com/curb-your-enthusiasm",
+  "schedule": {
+    "time": "22:30",
+    "days": [
+      "Sunday"
+    ]
+  },
+  "rating": {
+    "average": 7.9
+  },
+  "weight": 99,
+  "network": {
+    "id": 8,
+    "name": "HBO",
+    "country": {
+      "name": "United States",
+      "code": "US",
+      "timezone": "America/New_York"
+    },
+    "officialSite": "https://www.hbo.com/"
+  },
+  "webChannel": null,
+  "dvdCountry": null,
+  "externals": {
+    "tvrage": 3188,
+    "thetvdb": 76203,
+    "imdb": "tt0264235"
+  },
+  "image": {
+    "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/500/1250735.jpg",
+    "original": "https://static.tvmaze.com/uploads/images/original_untouched/500/1250735.jpg"
+  },
+  "summary": "<p><b>Curb Your Enthusiasm</b> stars <i>Seinfeld</i> co-creator Larry David as himself in an unsparing but tongue-in-cheek depiction of his life. Shot in a verite style and featuring celebrities playing themselves, the episodes are improvised by the actors from an outline created by David.</p>",
+  "updated": 1786817740,
+  "_links": {
+    "self": {
+      "href": "https://api.tvmaze.com/shows/551"
+    },
+    "previousepisode": {
+      "href": "https://api.tvmaze.com/episodes/2800200",
+      "name": "No Lessons Learned"
+    }
+  },
+  "_embedded": {
+    "episodes": [
+      {
+        "id": 51109,
+        "url": "https://www.tvmaze.com/episodes/51109/curb-your-enthusiasm-1x01-the-pants-tent",
+        "name": "The Pants Tent",
+        "season": 1,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2000-10-15",
+        "airtime": "22:00",
+        "airstamp": "2000-10-16T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.3
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605390.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605390.jpg"
+        },
+        "summary": "<p>Larry's baggy new pants create awkward misunderstandings among Larry, Cheryl, and her friend. A movie-theater argument with a female 'stranger' leads to tensions between Larry and his best friend. Larry jokingly refers to Cheryl as \"Hitler\" during a car speakerphone conversation with Jeff and his attempts to hide it from her\u2014and to appease Jeff's Holocaust-sensitive parents\u2014backfired disastrously.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51109"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51110,
+        "url": "https://www.tvmaze.com/episodes/51110/curb-your-enthusiasm-1x02-ted-and-mary",
+        "name": "Ted and Mary",
+        "season": 1,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2000-10-22",
+        "airtime": "22:00",
+        "airstamp": "2000-10-23T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.3
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605391.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605391.jpg"
+        },
+        "summary": "<p>Larry and Cheryl enjoy their bowling double-date with Ted Danson and Mary Steenburgen, but it ends badly when Larry accuses the bowling alley of misplacing his sneakers. Later, Ted gets the wrong idea about Larry when he goes shopping with Mary at a downtown department store.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51110"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51111,
+        "url": "https://www.tvmaze.com/episodes/51111/curb-your-enthusiasm-1x03-porno-gil",
+        "name": "Porno Gil",
+        "season": 1,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2000-10-29",
+        "airtime": "22:00",
+        "airstamp": "2000-10-30T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.5
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605392.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605392.jpg"
+        },
+        "summary": "<p>By not picking up a golf ball that drops out of a bucket carried by a man in a tacky western hat, Larry sets off a bizarre chain of events in which he's forced to attend a party at the home of a porno businessman named Gil, getting lost with Cheryl along the way. The party ends up being a disaster, as Larry refuses to take off his shoes, breaks a lamp, loses his watch, is forced to do a dreaded \"double goodbye.\" Meanwhile, Jeff is hospitalized for emergency bypass surgery and asks Larry to remove the secret porno stash at his home so his wife doesn't find it. While carrying out the favor, Larry discovers a familiar face on one of the video boxes.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51111"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51112,
+        "url": "https://www.tvmaze.com/episodes/51112/curb-your-enthusiasm-1x04-the-bracelet",
+        "name": "The Bracelet",
+        "season": 1,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2000-11-05",
+        "airtime": "22:00",
+        "airstamp": "2000-11-06T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.1
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605393.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605393.jpg"
+        },
+        "summary": "<p>Larry wants to buy a bracelet for Cheryl, but he is not buzzed into the store because he is wearing his workout clothes and looks like a slob. Richard then decides to buy it for his girlfriend instead, upsetting Cheryl. Larry and Richard Lewis help a blind man move into his apartment but he becomes belligerent and ungrateful. Larry returns to a restaurant where he left behind his credit card, but his car is blocked in by the waiter captain because Larry did not tip him the previous day. Larry runs to the jewelry store to try to prevent Richard from buying the bracelet; they fight outside the door because neither is buzzed in.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51112"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51113,
+        "url": "https://www.tvmaze.com/episodes/51113/curb-your-enthusiasm-1x05-interior-decorator",
+        "name": "Interior Decorator",
+        "season": 1,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2000-11-12",
+        "airtime": "22:00",
+        "airstamp": "2000-11-13T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.5
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605394.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605394.jpg"
+        },
+        "summary": "<p>By politely holding the elevator door for a woman in an office building, Larry ends up losing his place before her at the doctor's office, and is delayed 40 minutes. As a result, Larry ends up missing an important meeting with Diane Keaton. At home, Larry and Cheryl are visited by their interior decorator, who has Keaton's phone number but won't give it to Larry even though the actress called and left her number, which Larry couldn't decipher because of static. Thanks to Jeff, however, Larry is able to go to Keaton's house, where he runs into his decorator, gets into a fight, and breaks Diane's lamp -- the same type that was in Porno Gil's pad.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51113"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51114,
+        "url": "https://www.tvmaze.com/episodes/51114/curb-your-enthusiasm-1x06-the-wire",
+        "name": "The Wire",
+        "season": 1,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2000-11-19",
+        "airtime": "22:00",
+        "airstamp": "2000-11-20T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605395.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605395.jpg"
+        },
+        "summary": "<p>Cheryl gives Larry an ultimatum - bury the wire in the backyard - or else! But the permit the city gives Larry requires six signatures from his neighbors, and that means having to be nice to them at all costs - or else.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51114"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51115,
+        "url": "https://www.tvmaze.com/episodes/51115/curb-your-enthusiasm-1x07-aamco",
+        "name": "AAMCO",
+        "season": 1,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2000-11-26",
+        "airtime": "22:00",
+        "airstamp": "2000-11-27T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.1
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605396.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605396.jpg"
+        },
+        "summary": "<p>Jeff buys a '57 Chevy and insists that Larry take it for a drive. At a stop sign, Larry mistakes the honking horn from an AAMCO commercial for the car behind him and yells at the other driver, who then hits the Chevy and speeds away. Luckily, Larry meets an antique auto mechanic at a dinner party who says he can fix Jeff's Chevy.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51115"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51116,
+        "url": "https://www.tvmaze.com/episodes/51116/curb-your-enthusiasm-1x08-beloved-aunt",
+        "name": "Beloved Aunt",
+        "season": 1,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2000-12-03",
+        "airtime": "22:00",
+        "airstamp": "2000-12-04T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.1
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605397.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605397.jpg"
+        },
+        "summary": "<p>When Cheryl's aunt dies, the family asks Larry to write the obituary. But when it gets printed in the newspaper, an unfortunate typo lands Larry in the hot seat.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51116"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51117,
+        "url": "https://www.tvmaze.com/episodes/51117/curb-your-enthusiasm-1x09-affirmative-action",
+        "name": "Affirmative Action",
+        "season": 1,
+        "number": 9,
+        "type": "regular",
+        "airdate": "2000-12-10",
+        "airtime": "22:00",
+        "airstamp": "2000-12-11T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.6
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605398.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605398.jpg"
+        },
+        "summary": "<p>Cheryl needs a prescription picked up for a terrible rash, which is repeatedly complicated by Larry, including a bad joke that he tells in front of Richard Lewis' doctor.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51117"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51118,
+        "url": "https://www.tvmaze.com/episodes/51118/curb-your-enthusiasm-1x10-the-group",
+        "name": "The Group",
+        "season": 1,
+        "number": 10,
+        "type": "regular",
+        "airdate": "2000-12-17",
+        "airtime": "22:00",
+        "airstamp": "2000-12-18T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605399.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605399.jpg"
+        },
+        "summary": "<p>Thanks to Larry's manager, Jeff, Cheryl is up for a part in \"The Vagina Monologues.\" Meanwhile, Larry runs into an ex, who asks him to attend a survivors-of-incest support group with her to lend moral support while she deals with her past.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51118"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51119,
+        "url": "https://www.tvmaze.com/episodes/51119/curb-your-enthusiasm-2x01-the-car-salesman",
+        "name": "The Car Salesman",
+        "season": 2,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2001-09-23",
+        "airtime": "22:00",
+        "airstamp": "2001-09-24T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.1
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605402.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605402.jpg"
+        },
+        "summary": "<p>Living out of a hotel (they were fed up with \"the wire\" at their old home), Larry and Cheryl make a successful bid on a seaside chateau owned by Jason Alexander's new agent, Jay Schneider. Moving in, however, they learn their new dream home has a disturbing \"house sound\" of unknown origin. Meanwhile, Larry shocks his wife and friends by deciding to take a job as a car salesman, but is foiled by when \"high maintenance\" friend Richard Lewis shows up at the dealership.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51119"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51120,
+        "url": "https://www.tvmaze.com/episodes/51120/curb-your-enthusiasm-2x02-thor",
+        "name": "Thor",
+        "season": 2,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2001-09-30",
+        "airtime": "22:00",
+        "airstamp": "2001-10-01T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.9
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605403.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605403.jpg"
+        },
+        "summary": "<p>While going to meet Jason Alexander to discuss an idea for a new TV project, Larry has a run-in with professional wrestler Thor Olsen. Thor accuses Larry of \"shooting at his kids\", and Larry thinks Thor slashed his tires. Meanwhile, Jeff separates from Suzie, and asks Larry to go pick up his clothes. Doing so incurs the wrath of Suzie, and he asks Jeff to repay the favor by letting the air out of Thor's tires.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51120"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51121,
+        "url": "https://www.tvmaze.com/episodes/51121/curb-your-enthusiasm-2x03-trick-or-treat",
+        "name": "Trick or Treat",
+        "season": 2,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2001-10-07",
+        "airtime": "22:00",
+        "airstamp": "2001-10-08T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.3
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605404.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605404.jpg"
+        },
+        "summary": "<p>Larry offends some uncostumed trick or treaters when he doesn't give them candy. By doing so, he sees the \"trick\" side of Halloween. Larry also alienates Cheryl's screenwriter friend Cliff, and a Jewish neighbor. Larry also spoils his romantic anniversary present when Jeff shows up to play a round of golf.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51121"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51122,
+        "url": "https://www.tvmaze.com/episodes/51122/curb-your-enthusiasm-2x04-the-shrimp-incident",
+        "name": "The Shrimp Incident",
+        "season": 2,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2001-10-14",
+        "airtime": "22:00",
+        "airstamp": "2001-10-15T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.1
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605405.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605405.jpg"
+        },
+        "summary": "<p>Larry gets take out food and has a run-in with a TV executive, the same one he is about to meet with to discuss his TV pilot idea. But after getting home, he accuses the network exec of taking some shrimp from his dinner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51122"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51123,
+        "url": "https://www.tvmaze.com/episodes/51123/curb-your-enthusiasm-2x05-the-thong",
+        "name": "The Thong",
+        "season": 2,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2001-10-21",
+        "airtime": "22:00",
+        "airstamp": "2001-10-22T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.4
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605406.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605406.jpg"
+        },
+        "summary": "<p>Larry no longer feels comfortable going to his psychiatrist after he sees him wearing a thong at the beach.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51123"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51124,
+        "url": "https://www.tvmaze.com/episodes/51124/curb-your-enthusiasm-2x06-the-acupuncturist",
+        "name": "The Acupuncturist",
+        "season": 2,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2001-10-28",
+        "airtime": "22:00",
+        "airstamp": "2001-10-29T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.4
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605407.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605407.jpg"
+        },
+        "summary": "<p>Larry promises to pay an acupuncturist $5,000 if he can cure his neck. Meanwhile, a struggling writer asks Larry for a $5,000 loan which he promises to pay back after his father dies.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51124"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51125,
+        "url": "https://www.tvmaze.com/episodes/51125/curb-your-enthusiasm-2x07-the-doll",
+        "name": "The Doll",
+        "season": 2,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2001-11-04",
+        "airtime": "22:00",
+        "airstamp": "2001-11-05T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.9
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605408.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605408.jpg"
+        },
+        "summary": "<p>As part of a deal with ABC, Larry agrees to attend a screening of a new mini series. While at the after-party, Larry finds that the bathroom doors have no locks, so he goes to use the upstairs bathroom, and the network exec's daughter asks him to cut the hair off her doll's head. He does so, but it incurs the wrath of Suzie, a theater-goer, and the network exec's wife.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51125"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51126,
+        "url": "https://www.tvmaze.com/episodes/51126/curb-your-enthusiasm-2x08-shaq",
+        "name": "Shaq",
+        "season": 2,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2001-11-11",
+        "airtime": "22:00",
+        "airstamp": "2001-11-12T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605409.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605409.jpg"
+        },
+        "summary": "<p>After Larry accidentally trips and injures Shaq during a Lakers game, everything seems to start going his way.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51126"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51127,
+        "url": "https://www.tvmaze.com/episodes/51127/curb-your-enthusiasm-2x09-the-baptism",
+        "name": "The Baptism",
+        "season": 2,
+        "number": 9,
+        "type": "regular",
+        "airdate": "2001-11-18",
+        "airtime": "22:00",
+        "airstamp": "2001-11-19T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605410.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605410.jpg"
+        },
+        "summary": "<p>Cheryl and Larry head to Monterey to attend her sister's wedding. Larry is peeved that the man her sister is marrying is a Jewish man converting to Christianity. But Larry has even bigger fish to fry when he misplaces his plane tickets, and accuses the other passengers of stealing them.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51127"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51128,
+        "url": "https://www.tvmaze.com/episodes/51128/curb-your-enthusiasm-2x10-the-massage",
+        "name": "The Massage",
+        "season": 2,
+        "number": 10,
+        "type": "regular",
+        "airdate": "2001-11-25",
+        "airtime": "22:00",
+        "airstamp": "2001-11-26T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.2
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605411.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605411.jpg"
+        },
+        "summary": "<p>In the second season finale, Larry is busted by a restaurant owner for stealing forks. Julia Louis-Dreyfus becomes so frustrated by the incident that she drops out of the pilot, and that ends Larry's quest to get it on TV. Meanwhile, Cheryl learns that Larry got a naughty massage, and he's busted for that. Larry later faces an ironic punishment for his restaurant crimes.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51128"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51129,
+        "url": "https://www.tvmaze.com/episodes/51129/curb-your-enthusiasm-3x01-chets-shirt",
+        "name": "Chet's Shirt",
+        "season": 3,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2002-09-15",
+        "airtime": "22:00",
+        "airstamp": "2002-09-16T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.4
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605412.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605412.jpg"
+        },
+        "summary": "<p>While comforting a friend whose husband passed away, Larry and Cheryl comment on the husband's shirt. Larry then goes to the department store the next day to buy it. Meanwhile, Jeff talks Larry into investing in a trendy new celebrity restaurant. Larry also gets into trouble when he throws away some trash in a random garbage can.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51129"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51130,
+        "url": "https://www.tvmaze.com/episodes/51130/curb-your-enthusiasm-3x02-the-benadryl-brownie",
+        "name": "The Benadryl Brownie",
+        "season": 3,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2002-09-22",
+        "airtime": "22:00",
+        "airstamp": "2002-09-23T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.4
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605413.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605413.jpg"
+        },
+        "summary": "<p>Thanks to Larry's miscommunication on his new cell phone, Richard Lewis' girlfriend succumbs to peanut allergies a week before they're supposed to go to the Emmy Awards. A practicing Christian Scientist, she doesn't take any medicine, so Richard and Larry devise a scheme to cook up some brownies laced with medicine. Like all things Larry does, the plan backfires.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51130"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51131,
+        "url": "https://www.tvmaze.com/episodes/51131/curb-your-enthusiasm-3x03-club-soda-and-salt",
+        "name": "Club Soda and Salt",
+        "season": 3,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2002-09-29",
+        "airtime": "22:00",
+        "airstamp": "2002-09-30T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.6
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605414.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605414.jpg"
+        },
+        "summary": "<p>Larry, Jeff, and Ted scramble to find a chef for the new restaurant, but Larry doesn't like Ted's recommendation. While trying to find a replacement, Larry learns a few things - Cheryl has a new, male, tennis playing friend, people won't take a wedding gift after a year, and that club soda and salt will get stains out of anything.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51131"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51132,
+        "url": "https://www.tvmaze.com/episodes/51132/curb-your-enthusiasm-3x04-the-nanny-from-hell",
+        "name": "The Nanny from Hell",
+        "season": 3,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2002-10-06",
+        "airtime": "22:00",
+        "airstamp": "2002-10-07T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605415.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605415.jpg"
+        },
+        "summary": "<p>The restaurant investors plan a pool party, but only Larry and Jeff show up. Larry goes to use the bathroom in the main house, and winds up getting the nanny fired. Larry recommends the nanny to Jeff and Susie. After the nanny snaps, Suzie's life is threatened. Meanwhile, Richard Lewis tries to get into Bartlett's Book Of Quotations for claiming to have invented the phrase \"the ______ from hell\".</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51132"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51133,
+        "url": "https://www.tvmaze.com/episodes/51133/curb-your-enthusiasm-3x05-the-terrorist-attack",
+        "name": "The Terrorist Attack",
+        "season": 3,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2002-10-13",
+        "airtime": "22:00",
+        "airstamp": "2002-10-14T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.9
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605416.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605416.jpg"
+        },
+        "summary": "<p>Wanda Sykes unknowingly starts a rumor about a terrorist attack when she tells Larry about it. Meanwhile, Cheryl's friend is planning a benefit concert with Alanis Morisette performing. When people skip town because of the rumors, the benefit is canceled, and the blame is placed squarely on Larry.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51133"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51134,
+        "url": "https://www.tvmaze.com/episodes/51134/curb-your-enthusiasm-3x06-the-special-section",
+        "name": "The Special Section",
+        "season": 3,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2002-10-20",
+        "airtime": "22:00",
+        "airstamp": "2002-10-21T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605417.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605417.jpg"
+        },
+        "summary": "<p>Larry is distraught when he learns that his mother died while he was off shooting a movie in New York, and he doesn't learn about the news until two days after the funeral. Larry uses the loss to get out of a number of unappealing invitations, while plotting to move his mother away from the \"special section\" of the cemetery.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51134"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51135,
+        "url": "https://www.tvmaze.com/episodes/51135/curb-your-enthusiasm-3x07-the-corpse-sniffing-dog",
+        "name": "The Corpse-Sniffing Dog",
+        "season": 3,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2002-10-27",
+        "airtime": "22:00",
+        "airstamp": "2002-10-28T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.9
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605418.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605418.jpg"
+        },
+        "summary": "<p>Suzie buys a guard dog, and Jeff has to leave the house because of allergies. Larry has to persuade Jeff's daughter Sammy to give up the dog, but Sammy wont. Larry, concerned, tries to find a way to please both Jeff and some friends who are also vying for the dog.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51135"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51136,
+        "url": "https://www.tvmaze.com/episodes/51136/curb-your-enthusiasm-3x08-krazee-eyez-killa",
+        "name": "Krazee-Eyez Killa",
+        "season": 3,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2002-11-03",
+        "airtime": "22:00",
+        "airstamp": "2002-11-04T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605419.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605419.jpg"
+        },
+        "summary": "<p>Wanda Sykes' has a new boyfriend, gangsta rapper Krazee-Eyez Killa, who shares a little more with his new friend Larry David than a replacement jacket needed for a scene in the new Martin Scorcese film. Meanwhile, Larry offends Suzie by not taking the tour of her new house. Ultimately, in typical Larry David fashion, he ruins everything, through a conversation he has with Cheryl, where she does all the talking.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51136"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51137,
+        "url": "https://www.tvmaze.com/episodes/51137/curb-your-enthusiasm-3x09-mary-joseph-and-larry",
+        "name": "Mary, Joseph and Larry",
+        "season": 3,
+        "number": 9,
+        "type": "regular",
+        "airdate": "2002-11-10",
+        "airtime": "22:00",
+        "airstamp": "2002-11-11T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.6
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605420.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605420.jpg"
+        },
+        "summary": "<p>It's December 23rd, and Larry gets up to get a midnight snack. He eats some cookies in the refrigerator. Unfortunately, those cookies were a nativity scene that Cheryl's devoutly religious sister was preparing, and being Christmas Eve, it's too late to get a replacement. Larry scrambles to find a replacement, which he does in the form of a live nativity scene at a local church. But a hair stuck in Larry's throat means no nativity scene.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51137"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51138,
+        "url": "https://www.tvmaze.com/episodes/51138/curb-your-enthusiasm-3x10-the-grand-opening",
+        "name": "The Grand Opening",
+        "season": 3,
+        "number": 10,
+        "type": "regular",
+        "airdate": "2002-11-17",
+        "airtime": "22:00",
+        "airstamp": "2002-11-18T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605421.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605421.jpg"
+        },
+        "summary": "<p>In the third season finale, Bobo's Restaurant is two days away from being scheduled to open. Larry discovers that the head chef was hired under false pretenses for pretending to be bald. After firing the chef, Larry and Jeff scramble to find a replacement. During the process, Larry accidentally injures the most influential food critic in Los Angeles, who is coming to the opening. The food critic recommends a chef from New York, who turns out to have a rather interesting quirk. Meanwhile, Cheryl has a tense confrontation with Susie after she bails on lunch after getting stuck in a car wash.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51138"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51139,
+        "url": "https://www.tvmaze.com/episodes/51139/curb-your-enthusiasm-4x01-mels-offer",
+        "name": "Mel's Offer",
+        "season": 4,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2004-01-04",
+        "airtime": "22:00",
+        "airstamp": "2004-01-05T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605422.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605422.jpg"
+        },
+        "summary": "<p>Mel Brooks sees Larry performing some karaoke at a bar one night and is quickly impressed with his singing abilities. He then invites Larry to audition to star in a Broadway production of \"The Producers\". But the deal quickly goes south once Mel hits Larry in the head and Larry's doctor drools on him.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51139"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51140,
+        "url": "https://www.tvmaze.com/episodes/51140/curb-your-enthusiasm-4x02-bens-birthday-party",
+        "name": "Ben's Birthday Party",
+        "season": 4,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2004-01-11",
+        "airtime": "22:00",
+        "airstamp": "2004-01-12T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605423.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605423.jpg"
+        },
+        "summary": "<p>Mel Brooks taps Ben Stiller to be Larry's co-star in The Producers. But when Larry accidentally punctures Ben Stiller in the eye during a birthday party game gone wrong, Ben drops out of the production.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51140"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51141,
+        "url": "https://www.tvmaze.com/episodes/51141/curb-your-enthusiasm-4x03-the-blind-date",
+        "name": "The Blind Date",
+        "season": 4,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2004-01-18",
+        "airtime": "22:00",
+        "airstamp": "2004-01-19T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.4
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605424.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605424.jpg"
+        },
+        "summary": "<p>Larry makes a last-ditch effort to keep Ben Stiller in The Producers, and tries to keep a friend happy by setting him up with a blind date. Meanwhile, Jeff's bizarre sexual fantasy gets out in the open.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51141"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51142,
+        "url": "https://www.tvmaze.com/episodes/51142/curb-your-enthusiasm-4x04-the-weatherman",
+        "name": "The Weatherman",
+        "season": 4,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2004-01-25",
+        "airtime": "22:00",
+        "airstamp": "2004-01-26T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.1
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605425.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605425.jpg"
+        },
+        "summary": "<p>Larry questions a weatherman's ability to manipulate the media so he can have the country club to himself.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51142"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51143,
+        "url": "https://www.tvmaze.com/episodes/51143/curb-your-enthusiasm-4x05-the-5-wood",
+        "name": "The 5 Wood",
+        "season": 4,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2004-02-01",
+        "airtime": "22:00",
+        "airstamp": "2004-02-02T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.9
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605426.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605426.jpg"
+        },
+        "summary": "<p>Still thinking he flirted with her, Dalilah the Hygienist officially asks Larry out, but Oscar the dog causes a problem. Leo Funkhauser succumbs to the \"good\" Hodgkin's. During the viewing, Larry is disgusted to see what appears to be his five wood in the casket with Leo, and asks Jeff to switch clubs with Leo. The result of the incident finds Larry being kicked out of the country club and having to cheat his way into a republican club.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51143"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51144,
+        "url": "https://www.tvmaze.com/episodes/51144/curb-your-enthusiasm-4x06-the-car-pool-lane",
+        "name": "The Car Pool Lane",
+        "season": 4,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2004-02-08",
+        "airtime": "22:00",
+        "airstamp": "2004-02-09T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605427.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605427.jpg"
+        },
+        "summary": "<p>Larry scrambles to find tickets to a very promising Dodger game. But before he can go, he has to take care of a few things first. The duties include getting out of jury duty, driving a friend to the airport, and scoring some medical marijuana for his dad's glaucoma. Thankfully a run-in with a rather large hooker helps make all the chores easier.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51144"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51145,
+        "url": "https://www.tvmaze.com/episodes/51145/curb-your-enthusiasm-4x07-the-surrogate",
+        "name": "The Surrogate",
+        "season": 4,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2004-02-22",
+        "airtime": "22:00",
+        "airstamp": "2004-02-23T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.3
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605428.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605428.jpg"
+        },
+        "summary": "<p>Larry needs a clean bill of health for the Producers, but a little heart trouble means no dice. The doctor gives Larry a device called a \"heart holter\" that is used to monitor his heart. Larry uses the device to get out of some unappealing situations including a baby shower, accusations of blatant racism, and a car accident, which lands him in trouble with his Producers co-star David Schwimmer.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51145"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51146,
+        "url": "https://www.tvmaze.com/episodes/51146/curb-your-enthusiasm-4x08-wandering-bear",
+        "name": "Wandering Bear",
+        "season": 4,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2004-02-29",
+        "airtime": "22:00",
+        "airstamp": "2004-03-01T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.9
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605429.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605429.jpg"
+        },
+        "summary": "<p>Larry and Jeff decide to buy a \"Girls Gone Wild\" video tape, and that lands them both in the hot seat with Larry's secretary and Jeff's wife after the dog leaves the house during the viewing of the tape. Meanwhile, Larry seeks the help of his native American gardener to cure Cheryl of a feminine problem after Larry mistakenly wears a condom inside out.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51146"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51147,
+        "url": "https://www.tvmaze.com/episodes/51147/curb-your-enthusiasm-4x09-the-survivor",
+        "name": "The Survivor",
+        "season": 4,
+        "number": 9,
+        "type": "regular",
+        "airdate": "2004-03-07",
+        "airtime": "22:00",
+        "airstamp": "2004-03-08T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.3
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605430.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605430.jpg"
+        },
+        "summary": "<p>At a dinner party, generations collide when a contestant from the television show \"Survivor\" and a holocaust survivor butt heads, and Larry is caught in the middle. Larry and Cheryl renew their vows, but Larry has a hard time remembering his vows - or his lines for The Producers.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51147"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51148,
+        "url": "https://www.tvmaze.com/episodes/51148/curb-your-enthusiasm-4x10-opening-night",
+        "name": "Opening Night",
+        "season": 4,
+        "number": 10,
+        "type": "regular",
+        "airdate": "2004-03-14",
+        "airtime": "22:00",
+        "airstamp": "2004-03-15T03:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 8.9
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605431.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605431.jpg"
+        },
+        "summary": "<p>In the fourth-season finale, Larry David flies to New York with fellow performers David Schwimmer and Cady Huffman to star on Broadway in \"The Producers\". Along the way, he argues with Schwimmer, develops a strange relationship with Huffman, finds he's tipping way too often and attempts to use his 10th anniversary gift from Cheryl. On stage, Larry and David put aside their differences and blow the audience away - unexpectedly, Mel Brooks isn't impressed.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51148"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51149,
+        "url": "https://www.tvmaze.com/episodes/51149/curb-your-enthusiasm-5x01-the-larry-david-sandwich",
+        "name": "The Larry David Sandwich",
+        "season": 5,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2005-09-25",
+        "airtime": "22:00",
+        "airstamp": "2005-09-26T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.4
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605432.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605432.jpg"
+        },
+        "summary": "<p>Larry is changed by a near-death experience, a revelation about his father, and a sandwich named after him.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51149"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51150,
+        "url": "https://www.tvmaze.com/episodes/51150/curb-your-enthusiasm-5x02-the-bowtie",
+        "name": "The Bowtie",
+        "season": 5,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2005-10-02",
+        "airtime": "22:00",
+        "airstamp": "2005-10-03T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.2
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605433.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605433.jpg"
+        },
+        "summary": "<p>Wanda Sykes thinks Larry purposefully adopted a dog she deems \"racist\", Larry falls off his pedestal as a friend of the lesbian community, and Larry hires a private investigator to uncover some information about his past.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51150"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51151,
+        "url": "https://www.tvmaze.com/episodes/51151/curb-your-enthusiasm-5x03-the-christ-nail",
+        "name": "The Christ Nail",
+        "season": 5,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2005-10-09",
+        "airtime": "22:00",
+        "airstamp": "2005-10-10T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.5
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605434.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605434.jpg"
+        },
+        "summary": "<p>Larry goes bra-shopping for his maid, landing him in trouble with her husband and his neighbors.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51151"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51152,
+        "url": "https://www.tvmaze.com/episodes/51152/curb-your-enthusiasm-5x04-kamikaze-bingo",
+        "name": "Kamikaze Bingo",
+        "season": 5,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2005-10-16",
+        "airtime": "22:00",
+        "airstamp": "2005-10-17T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.3
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605435.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605435.jpg"
+        },
+        "summary": "<p>Larry offends a Japanese art dealer by implying that his father was not a real Kamikaze pilot. Later, Larry accuses his own dad's retirement home of fixing their bingo game.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51152"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51153,
+        "url": "https://www.tvmaze.com/episodes/51153/curb-your-enthusiasm-5x05-lewis-needs-a-kidney",
+        "name": "Lewis Needs a Kidney",
+        "season": 5,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2005-10-30",
+        "airtime": "22:00",
+        "airstamp": "2005-10-31T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605436.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605436.jpg"
+        },
+        "summary": "<p>Larry learns that Richard Lewis is bedridden and needs a kidney transplant. Larry and Jeff both turn up as positive matches for Lewis, but neither one are willing to give up their precious organs that easily.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51153"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51154,
+        "url": "https://www.tvmaze.com/episodes/51154/curb-your-enthusiasm-5x06-the-smoking-jacket",
+        "name": "The Smoking Jacket",
+        "season": 5,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2005-11-06",
+        "airtime": "22:00",
+        "airstamp": "2005-11-07T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.1
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605437.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605437.jpg"
+        },
+        "summary": "<p>Larry joins the \"Make A Wish\" foundation, and swaps his smoking jacket with Hugh Hefner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51154"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51155,
+        "url": "https://www.tvmaze.com/episodes/51155/curb-your-enthusiasm-5x07-the-seder",
+        "name": "The Seder",
+        "season": 5,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2005-11-13",
+        "airtime": "22:00",
+        "airstamp": "2005-11-14T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605438.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605438.jpg"
+        },
+        "summary": "<p>A sex offender (Rob Corddry) moves into the neighborhood, and becomes friends with Larry. Larry also suspects that Dr. Mark is stealing his newspaper, after his neighbor Ethel claims she saw him take it. Tension mounts when all of these people are guests at Larry's Passover Seder.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51155"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51156,
+        "url": "https://www.tvmaze.com/episodes/51156/curb-your-enthusiasm-5x08-the-ski-lift",
+        "name": "The Ski Lift",
+        "season": 5,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2005-11-20",
+        "airtime": "22:00",
+        "airstamp": "2005-11-21T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605439.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605439.jpg"
+        },
+        "summary": "<p>Larry's quest to get Richard Lewis a kidney takes a turn when Larry learns about the head of the kidney consortium. After befriending the guy, Larry invites him and his daughter on a ski trip. Like everything Larry does, the trip ends as badly as it started.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51156"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51157,
+        "url": "https://www.tvmaze.com/episodes/51157/curb-your-enthusiasm-5x09-the-korean-bookie",
+        "name": "The Korean Bookie",
+        "season": 5,
+        "number": 9,
+        "type": "regular",
+        "airdate": "2005-11-27",
+        "airtime": "22:00",
+        "airstamp": "2005-11-28T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.5
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605440.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605440.jpg"
+        },
+        "summary": "<p>Larry takes his chances with a Korean Bookie. While Cheryl's friends get married on the beach, Larry accuses the Korean Bookie of cooking up Jeff's dog and serving him for dinner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51157"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51158,
+        "url": "https://www.tvmaze.com/episodes/51158/curb-your-enthusiasm-5x10-the-end",
+        "name": "The End",
+        "season": 5,
+        "number": 10,
+        "type": "regular",
+        "airdate": "2005-12-04",
+        "airtime": "22:00",
+        "airstamp": "2005-12-05T03:00:00+00:00",
+        "runtime": 42,
+        "rating": {
+          "average": 8.8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605441.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605441.jpg"
+        },
+        "summary": "<p>In the 5th season finale, Larry discovers who his real parents are, and flies to Arizona to meet them. After a life-changing religious revelation, Larry decides to give Richard Lewis his kidney. Will Larry survive the operation... or is it the end?</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51158"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51159,
+        "url": "https://www.tvmaze.com/episodes/51159/curb-your-enthusiasm-6x01-meet-the-blacks",
+        "name": "Meet The Blacks",
+        "season": 6,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2007-09-09",
+        "airtime": "22:00",
+        "airstamp": "2007-09-10T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605442.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605442.jpg"
+        },
+        "summary": "<p>After Larry's quest to find the perfect excuse for missing a pair of parties backfires on him big time, he gets in a tense, heated fight with Cheryl. So to make up for it, he agrees to take in the Black Family, who lost their home in Hurricane Edna. But can the Blacks deal with Larry's total recklessness and lack of respect, not to mention his poorly planned pastry selection?</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51159"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51160,
+        "url": "https://www.tvmaze.com/episodes/51160/curb-your-enthusiasm-6x02-the-anonymous-donor",
+        "name": "The Anonymous Donor",
+        "season": 6,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2007-09-16",
+        "airtime": "22:00",
+        "airstamp": "2007-09-17T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.5
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605443.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605443.jpg"
+        },
+        "summary": "<p>Larry decides to be nice for a change and actually donate money to a worthy cause. But when he's revealed to be the anonymous donor for the hospital wing, Larry goes ballistic. He then accuses a dry cleaner of giving his jersey to someone else, and goes off in search of it. Meanwhile, Larry, Jeff, and the Blacks get their reputation stained.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51160"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51161,
+        "url": "https://www.tvmaze.com/episodes/51161/curb-your-enthusiasm-6x03-the-ida-funkhouser-roadside-memorial",
+        "name": "The Ida Funkhouser Roadside Memorial",
+        "season": 6,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2007-09-23",
+        "airtime": "22:00",
+        "airstamp": "2007-09-24T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.5
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605444.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605444.jpg"
+        },
+        "summary": "<p>A sweaty $50 bill, a sample abuser, a roadside memorial, and a private school superintendent are all things that intimidate Larry while he tries to help Marty Funkhauser cope with the sudden death of his mother in a freak accident.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51161"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51162,
+        "url": "https://www.tvmaze.com/episodes/51162/curb-your-enthusiasm-6x04-the-lefty-call",
+        "name": "The Lefty Call",
+        "season": 6,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2007-09-30",
+        "airtime": "22:00",
+        "airstamp": "2007-10-01T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605445.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605445.jpg"
+        },
+        "summary": "<p>Questions about Larry's bathroom habits become concern when Larry gets Richard Lewis' girlfriend a job at a place across the hall from his office. Meanwhile an incident involving a waiter and some take-out food threatens Jeff's dog.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51162"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51163,
+        "url": "https://www.tvmaze.com/episodes/51163/curb-your-enthusiasm-6x05-the-freak-book",
+        "name": "The Freak Book",
+        "season": 6,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2007-10-07",
+        "airtime": "22:00",
+        "airstamp": "2007-10-08T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.5
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605446.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605446.jpg"
+        },
+        "summary": "<p>Larry's birthday gift to Ted Danson - a coffee table book called \"Mondo Freaks\" gets him in trouble with everyone he shows the book to, which includes Ted, the limo driver, tennis star John McEnroe, a group of random mourners, and Paul McCartney's ex-wife Heather Mills.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51163"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51164,
+        "url": "https://www.tvmaze.com/episodes/51164/curb-your-enthusiasm-6x06-the-rat-dog",
+        "name": "The Rat Dog",
+        "season": 6,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2007-10-14",
+        "airtime": "22:00",
+        "airstamp": "2007-10-15T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.5
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605447.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605447.jpg"
+        },
+        "summary": "<p>A faulty toaster makes life difficult for Loretta and Leon. Larry repeatedly offends a hearing impaired girl about the small dog she keeps with her. Larry and Leon get their phones mixed up, and Larry traumatizes the entire audience at Sammy's middle school production of Grease when he invites Jeff's exterminator to watch the show.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51164"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51165,
+        "url": "https://www.tvmaze.com/episodes/51165/curb-your-enthusiasm-6x07-the-tivo-guy",
+        "name": "The TiVo Guy",
+        "season": 6,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2007-10-21",
+        "airtime": "22:00",
+        "airstamp": "2007-10-22T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605448.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605448.jpg"
+        },
+        "summary": "<p>Cheryl is finally tired of Larry being Larry after her plane encounters severe turbulence and Larry seems more concerned about a malfunctioning TV device. After Cheryl announces that she's leaving Larry, the incident quickly splits up Larry's friends, who now have to break the news to Larry as to whose side they are taking.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51165"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51166,
+        "url": "https://www.tvmaze.com/episodes/51166/curb-your-enthusiasm-6x08-the-n-word",
+        "name": "The N Word",
+        "season": 6,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2007-10-28",
+        "airtime": "22:00",
+        "airstamp": "2007-10-29T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.9
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605449.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605449.jpg"
+        },
+        "summary": "<p>Larry goes to the hospital to see his new girlfriend, an orthopedist. While in the bathroom, Larry overhears one end of a very angry, horribly offensive cell phone conversation. But repeating what the man said offends another doctor - the same one who is about to perform Jeff's operation. But it only results in Jeff's head getting shaved, who now has to deal with being bald. Larry has to give testimony as Jeff prepares to sue the hospital.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51166"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51167,
+        "url": "https://www.tvmaze.com/episodes/51167/curb-your-enthusiasm-6x09-the-therapist",
+        "name": "The Therapist",
+        "season": 6,
+        "number": 9,
+        "type": "regular",
+        "airdate": "2007-11-04",
+        "airtime": "22:00",
+        "airstamp": "2007-11-05T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 9.1
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605450.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605450.jpg"
+        },
+        "summary": "<p>Larry devises an overly elaborate plan to win back Cheryl. He does so by trying to get on her therapist's good side. Meanwhile, Larry accuses Marty Funkhauser of taking charity money under false pretenses.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51167"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51168,
+        "url": "https://www.tvmaze.com/episodes/51168/curb-your-enthusiasm-6x10-the-bat-mitzvah",
+        "name": "The Bat Mitzvah",
+        "season": 6,
+        "number": 10,
+        "type": "regular",
+        "airdate": "2007-11-11",
+        "airtime": "22:00",
+        "airstamp": "2007-11-12T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 9.3
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605451.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605451.jpg"
+        },
+        "summary": "<p>The Blacks learn some good news: they get to go home. As Larry says goodbye, he once again offends the wrong person, who takes his revenge on Larry by spreading a nasty rumor involving him and a gerbil. But thankfully Jeff's daughter's bat mitzvahs is coming up, and that provides Larry with the perfect, public opportunity to clear up that nasty rumor, as well as one more chance to patch things up with Cheryl.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51168"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51169,
+        "url": "https://www.tvmaze.com/episodes/51169/curb-your-enthusiasm-7x01-funkhousers-crazy-sister",
+        "name": "Funkhouser's Crazy Sister",
+        "season": 7,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2009-09-20",
+        "airtime": "22:00",
+        "airstamp": "2009-09-21T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.5
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605452.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605452.jpg"
+        },
+        "summary": "<p>Larry attempts a preemptive breakup with an ailing Loretta, and learns with Jeff that you can't make an \"empty gesture\" to a Funkhouser.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51169"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51170,
+        "url": "https://www.tvmaze.com/episodes/51170/curb-your-enthusiasm-7x02-vehicular-fellatio",
+        "name": "Vehicular Fellatio",
+        "season": 7,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2009-09-27",
+        "airtime": "22:00",
+        "airstamp": "2009-09-28T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 9.3
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605453.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605453.jpg"
+        },
+        "summary": "<p>Larry deliberately tries to annoy Loretta, against the advice of a renowned doctor. Later, Larry dooms Richard Lewis' new relationship, and ends up profiting from Leon's indiscretion with the wife of a depressed pal.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51170"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51171,
+        "url": "https://www.tvmaze.com/episodes/51171/curb-your-enthusiasm-7x03-the-reunion",
+        "name": "The Reunion",
+        "season": 7,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2009-10-04",
+        "airtime": "22:00",
+        "airstamp": "2009-10-05T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605454.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605454.jpg"
+        },
+        "summary": "<p>Approaching the 10 year mark, Larry and Jeff finally agree to do a Seinfeld reunion show. However, after getting a bad set of tickets to a Lakers game, he tries to call the reunion off after offending the head of NBC. Meanwhile Larry hatches a scheme to win back Cheryl by casting her as George's ex-wife.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51171"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51172,
+        "url": "https://www.tvmaze.com/episodes/51172/curb-your-enthusiasm-7x04-the-hot-towel",
+        "name": "The Hot Towel",
+        "season": 7,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2009-10-11",
+        "airtime": "22:00",
+        "airstamp": "2009-10-12T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.5
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605455.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605455.jpg"
+        },
+        "summary": "<p>A series of bizarre events leads Larry to get his doctor's personal phone number, but how much will Larry's doctor regret it?</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51172"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51173,
+        "url": "https://www.tvmaze.com/episodes/51173/curb-your-enthusiasm-7x05-denise-handicapped",
+        "name": "Denise Handicapped",
+        "season": 7,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2009-10-18",
+        "airtime": "22:00",
+        "airstamp": "2009-10-19T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 9.4
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605456.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605456.jpg"
+        },
+        "summary": "<p>Larry embraces the upside of disability when he courts a handicap woman to take to a recital at a friend's house, but she doesn't return the favor when Suzie throws Larry's cell phone in the ocean and Larry loses her number in the process.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51173"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51174,
+        "url": "https://www.tvmaze.com/episodes/51174/curb-your-enthusiasm-7x06-the-bare-midriff",
+        "name": "The Bare Midriff",
+        "season": 7,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2009-10-25",
+        "airtime": "22:00",
+        "airstamp": "2009-10-26T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605457.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605457.jpg"
+        },
+        "summary": "<p>Larry inadvertently creates a miracle when he fires his assistant for exposing her waistline around the office. Jerry gets the idea to use Larry's latest mishap as part of the upcoming Seinfeld reunion show.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51174"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51175,
+        "url": "https://www.tvmaze.com/episodes/51175/curb-your-enthusiasm-7x07-the-black-swan",
+        "name": "The Black Swan",
+        "season": 7,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2009-11-01",
+        "airtime": "22:00",
+        "airstamp": "2009-11-02T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.5
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605458.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605458.jpg"
+        },
+        "summary": "<p>Larry is forced to cover his tracks after he accidentally causes the death of a country club member and kills the club's mascot in an act of self defense.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51175"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51176,
+        "url": "https://www.tvmaze.com/episodes/51176/curb-your-enthusiasm-7x08-officer-krupke",
+        "name": "Officer Krupke",
+        "season": 7,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2009-11-08",
+        "airtime": "22:00",
+        "airstamp": "2009-11-09T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.9
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605459.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605459.jpg"
+        },
+        "summary": "<p>While Cheryl competes for a role on the Seinfeld reunion, Larry is forced by Jeff to embrace his feminine side after a series of bizarre events leads Suzie to think he's having an affair.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51176"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51177,
+        "url": "https://www.tvmaze.com/episodes/51177/curb-your-enthusiasm-7x09-the-table-read",
+        "name": "The Table Read",
+        "season": 7,
+        "number": 9,
+        "type": "regular",
+        "airdate": "2009-11-15",
+        "airtime": "22:00",
+        "airstamp": "2009-11-16T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 9
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605460.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605460.jpg"
+        },
+        "summary": "<p>Rehearsals for the Seinfeld reunion show get complicated when Larry's text message exchange with a 9 year old Seinfeld fan lands him in trouble with the local authorities. Meanwhile, Leon tries to fool Michael Richards.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51177"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51178,
+        "url": "https://www.tvmaze.com/episodes/51178/curb-your-enthusiasm-7x10-seinfeld",
+        "name": "Seinfeld",
+        "season": 7,
+        "number": 10,
+        "type": "regular",
+        "airdate": "2009-11-22",
+        "airtime": "22:00",
+        "airstamp": "2009-11-23T03:00:00+00:00",
+        "runtime": 45,
+        "rating": {
+          "average": 9
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605461.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605461.jpg"
+        },
+        "summary": "<p>Taping the Seinfeld reunion proves to be difficult after Larry's fight with a local coffee vendor alienates Jason Alexander and costs him quality time with Cheryl.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51178"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51179,
+        "url": "https://www.tvmaze.com/episodes/51179/curb-your-enthusiasm-8x01-the-divorce",
+        "name": "The Divorce",
+        "season": 8,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2011-07-10",
+        "airtime": "22:00",
+        "airstamp": "2011-07-11T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605462.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605462.jpg"
+        },
+        "summary": "<p>Larry learns his lawyer isn't kosher, and rescinds a cookie order from the Girl Scout daughter of a beleaguered sports owner.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51179"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51180,
+        "url": "https://www.tvmaze.com/episodes/51180/curb-your-enthusiasm-8x02-the-safe-house",
+        "name": "The Safe House",
+        "season": 8,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2011-07-17",
+        "airtime": "22:00",
+        "airstamp": "2011-07-18T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605463.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605463.jpg"
+        },
+        "summary": "<p>Larry becomes an unlikely role model for battered women; Richard Lewis's relationship with a burlesque performer is put to the test; Leon survives a case of mistaken identity.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51180"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51181,
+        "url": "https://www.tvmaze.com/episodes/51181/curb-your-enthusiasm-8x03-palestinian-chicken",
+        "name": "Palestinian Chicken",
+        "season": 8,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2011-07-24",
+        "airtime": "22:00",
+        "airstamp": "2011-07-25T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.4
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605464.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605464.jpg"
+        },
+        "summary": "<p>Larry plays \"social assassin\" to the hilt at a dinner party, on the golf course, and at a Palestinian restaurant with chicken to die for.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51181"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51182,
+        "url": "https://www.tvmaze.com/episodes/51182/curb-your-enthusiasm-8x04-the-smiley-face",
+        "name": "The Smiley Face",
+        "season": 8,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2011-07-31",
+        "airtime": "22:00",
+        "airstamp": "2011-08-01T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.4
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605465.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605465.jpg"
+        },
+        "summary": "<p>Larry vows to topple a sacred dating taboo, and regrets making concessions to his new office neighbor; Jeff\u02bcs alibi to get out of a dinner backfires.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51182"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51183,
+        "url": "https://www.tvmaze.com/episodes/51183/curb-your-enthusiasm-8x05-vow-of-silence",
+        "name": "Vow of Silence",
+        "season": 8,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2011-08-07",
+        "airtime": "22:00",
+        "airstamp": "2011-08-08T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.9
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605466.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605466.jpg"
+        },
+        "summary": "<p>A friend who has taken a vow of silence creates a stir at multiple parties, Larry eats Jeff's dog's last meal, and Richard Lewis is snubbed meeting Larry for lunch.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51183"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51184,
+        "url": "https://www.tvmaze.com/episodes/51184/curb-your-enthusiasm-8x06-the-hero",
+        "name": "The Hero",
+        "season": 8,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2011-08-14",
+        "airtime": "22:00",
+        "airstamp": "2011-08-15T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605467.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605467.jpg"
+        },
+        "summary": "<p>Larry accidentally becomes a hero on the flight to New York, earning him the respect of the woman sitting next to him on the plane. It backfires when Jeff and Suzie try to court Ricky Gervais.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51184"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51185,
+        "url": "https://www.tvmaze.com/episodes/51185/curb-your-enthusiasm-8x07-the-bi-sexual",
+        "name": "The Bi-Sexual",
+        "season": 8,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2011-08-21",
+        "airtime": "22:00",
+        "airstamp": "2011-08-22T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.9
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605468.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605468.jpg"
+        },
+        "summary": "<p>Larry and Rosie O'Donnell try to court the same woman. Larry takes Leon's advice, which gives him an advantage, but he finds it doesn't always work in the long run.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51185"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51186,
+        "url": "https://www.tvmaze.com/episodes/51186/curb-your-enthusiasm-8x08-car-periscope",
+        "name": "Car Periscope",
+        "season": 8,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2011-08-28",
+        "airtime": "22:00",
+        "airstamp": "2011-08-29T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605469.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605469.jpg"
+        },
+        "summary": "<p>Larry and Jeff weigh an investment opportunity; Wanda Sykes preempts Larry's training schedule.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51186"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51187,
+        "url": "https://www.tvmaze.com/episodes/51187/curb-your-enthusiasm-8x09-mister-softee",
+        "name": "Mister Softee",
+        "season": 8,
+        "number": 9,
+        "type": "regular",
+        "airdate": "2011-09-04",
+        "airtime": "22:00",
+        "airstamp": "2011-09-05T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.6
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605470.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605470.jpg"
+        },
+        "summary": "<p>An ice-cream truck triggers a painful childhood memory for Larry that impacts a softball title game, a therapist's fees, Bill Buckner's legacy, and his new girlfriend's travel preferences.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51187"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 51188,
+        "url": "https://www.tvmaze.com/episodes/51188/curb-your-enthusiasm-8x10-larry-vs-michael-j-fox",
+        "name": "Larry vs. Michael J. Fox",
+        "season": 8,
+        "number": 10,
+        "type": "regular",
+        "airdate": "2011-09-11",
+        "airtime": "22:00",
+        "airstamp": "2011-09-12T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.9
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605471.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605471.jpg"
+        },
+        "summary": "<p>In the Season Eight finale, Larry accuses NY neighbor Michael J. Fox of harassment; Jeff takes a bullet for Susie; and Larry is scolded for giving an inappropriate birthday gift to Jennifer's son, Greg.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/51188"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 1244898,
+        "url": "https://www.tvmaze.com/episodes/1244898/curb-your-enthusiasm-9x01-foisted",
+        "name": "Foisted!",
+        "season": 9,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2017-10-01",
+        "airtime": "22:00",
+        "airstamp": "2017-10-02T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.4
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/129/324360.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/129/324360.jpg"
+        },
+        "summary": "<p>Larry tries to rid himself of an inept assistant, offends Jeff's barber and gets into hot water over a new project.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1244898"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 1277773,
+        "url": "https://www.tvmaze.com/episodes/1277773/curb-your-enthusiasm-9x02-the-pickle-gambit",
+        "name": "The Pickle Gambit",
+        "season": 9,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2017-10-08",
+        "airtime": "22:00",
+        "airstamp": "2017-10-09T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/130/326574.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/130/326574.jpg"
+        },
+        "summary": "<p>Larry reaches out to a familiar face, gives a hotel guest sartorial advice and looks to create a diversion to help a friend's nephew.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1277773"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 1308987,
+        "url": "https://www.tvmaze.com/episodes/1308987/curb-your-enthusiasm-9x03-a-disturbance-in-the-kitchen",
+        "name": "A Disturbance in the Kitchen",
+        "season": 9,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2017-10-15",
+        "airtime": "22:00",
+        "airstamp": "2017-10-16T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.2
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/131/328865.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/131/328865.jpg"
+        },
+        "summary": "<p>Larry turns to a writer for advice. Searching for Susie's missing \"little sister,\" he gets ticketed by an overzealous cop.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1308987"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 1308988,
+        "url": "https://www.tvmaze.com/episodes/1308988/curb-your-enthusiasm-9x04-running-with-the-bulls",
+        "name": "Running with the Bulls",
+        "season": 9,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2017-10-22",
+        "airtime": "22:00",
+        "airstamp": "2017-10-23T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.6
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/132/330931.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/132/330931.jpg"
+        },
+        "summary": "<p>Larry's therapist accuses him of overstepping; Susie grows suspicious of Jeff; Larry bribes an usher at a funeral.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1308988"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 1308989,
+        "url": "https://www.tvmaze.com/episodes/1308989/curb-your-enthusiasm-9x05-thank-you-for-your-service",
+        "name": "Thank You for Your Service",
+        "season": 9,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2017-10-29",
+        "airtime": "22:15",
+        "airstamp": "2017-10-30T02:15:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/133/333211.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/133/333211.jpg"
+        },
+        "summary": "<p>Larry commits a faux pas with Sammi's fiance, and tries to start over with his mail carrier and golf club security guard.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1308989"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 1339807,
+        "url": "https://www.tvmaze.com/episodes/1339807/curb-your-enthusiasm-9x06-the-accidental-text-on-purpose",
+        "name": "The Accidental Text on Purpose",
+        "season": 9,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2017-11-05",
+        "airtime": "22:00",
+        "airstamp": "2017-11-06T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.6
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/134/335183.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/134/335183.jpg"
+        },
+        "summary": "<p>Larry invents a clever ploy for getting his friends out of relationship jams; Larry upsets Funkhouser's new girlfriend.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1339807"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 1339808,
+        "url": "https://www.tvmaze.com/episodes/1339808/curb-your-enthusiasm-9x07-namaste",
+        "name": "Namaste",
+        "season": 9,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2017-11-12",
+        "airtime": "22:00",
+        "airstamp": "2017-11-13T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/135/337641.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/135/337641.jpg"
+        },
+        "summary": "<p>Larry angers a hot yoga teacher, has an auspicious first date and seethes over a run-in with an unfair Uber driver.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1339808"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 1339809,
+        "url": "https://www.tvmaze.com/episodes/1339809/curb-your-enthusiasm-9x08-never-wait-for-seconds",
+        "name": "Never Wait for Seconds!",
+        "season": 9,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2017-11-19",
+        "airtime": "22:00",
+        "airstamp": "2017-11-20T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/135/339454.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/135/339454.jpg"
+        },
+        "summary": "<p>Bridget asks Larry for a favor on behalf of her son. Larry earns unexpected gratitude in a buffet line.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1339809"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 1347543,
+        "url": "https://www.tvmaze.com/episodes/1347543/curb-your-enthusiasm-9x09-the-shucker",
+        "name": "The Shucker",
+        "season": 9,
+        "number": 9,
+        "type": "regular",
+        "airdate": "2017-11-26",
+        "airtime": "22:00",
+        "airstamp": "2017-11-27T03:00:00+00:00",
+        "runtime": 45,
+        "rating": {
+          "average": 7.8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/136/341562.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/136/341562.jpg"
+        },
+        "summary": "<p>Larry is blackmailed by an employee and tormented by someone from his past. Jeff and Larry pitch a new creative venture.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1347543"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 1347544,
+        "url": "https://www.tvmaze.com/episodes/1347544/curb-your-enthusiasm-9x10-fatwa",
+        "name": "Fatwa!",
+        "season": 9,
+        "number": 10,
+        "type": "regular",
+        "airdate": "2017-12-03",
+        "airtime": "22:00",
+        "airstamp": "2017-12-04T03:00:00+00:00",
+        "runtime": 50,
+        "rating": {
+          "average": 7.8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/137/343346.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/137/343346.jpg"
+        },
+        "summary": "<p>In the Season 9 finale, Larry has a scheduling conflict; takes issue with work associates; and hosts a pair of ungrateful houseguests.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1347544"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 1773091,
+        "url": "https://www.tvmaze.com/episodes/1773091/curb-your-enthusiasm-10x01-happy-new-year",
+        "name": "Happy New Year",
+        "season": 10,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2020-01-19",
+        "airtime": "22:30",
+        "airstamp": "2020-01-20T03:30:00+00:00",
+        "runtime": 37,
+        "rating": {
+          "average": 9.1
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/235/587594.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/235/587594.jpg"
+        },
+        "summary": "<p>Larry kicks off the new year with a new rival--Mocha Joe. Later, at a cocktail party hosted by Jeff and Susie, Larry gets roped into lunch plans and has a misunderstanding with a caterer.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1773091"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 1787363,
+        "url": "https://www.tvmaze.com/episodes/1787363/curb-your-enthusiasm-10x02-side-sitting",
+        "name": "Side Sitting",
+        "season": 10,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2020-01-26",
+        "airtime": "22:30",
+        "airstamp": "2020-01-27T03:30:00+00:00",
+        "runtime": 34,
+        "rating": {
+          "average": 8.5
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/235/587595.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/235/587595.jpg"
+        },
+        "summary": "<p>Larry's lawyer tries to resolve the situation with his assistant, Alice. Larry surprises Susie with an impressive birthday gift and comes one step closer to exacting revenge on Mocha Joe.</p><p>\u00a0</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1787363"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 1787364,
+        "url": "https://www.tvmaze.com/episodes/1787364/curb-your-enthusiasm-10x03-artificial-fruit",
+        "name": "Artificial Fruit",
+        "season": 10,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2020-02-02",
+        "airtime": "22:30",
+        "airstamp": "2020-02-03T03:30:00+00:00",
+        "runtime": 38,
+        "rating": {
+          "average": 8.5
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/238/597271.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/238/597271.jpg"
+        },
+        "summary": "<p>Larry drops the ball when he gets the chance to make amends with Alice. Larry and Richard go to extreme lengths for their upcoming lunch date.</p><p>\u00a0</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1787364"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 1787365,
+        "url": "https://www.tvmaze.com/episodes/1787365/curb-your-enthusiasm-10x04-youre-not-going-to-get-me-to-say-anything-bad-about-mickey",
+        "name": "You're Not Going to Get Me to Say Anything Bad About Mickey",
+        "season": 10,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2020-02-09",
+        "airtime": "22:30",
+        "airstamp": "2020-02-10T03:30:00+00:00",
+        "runtime": 45,
+        "rating": {
+          "average": 8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/240/601768.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/240/601768.jpg"
+        },
+        "summary": "<p>Travel plans go awry when Larry brings an impromptu date to a destination wedding. At the hotel, Larry finds himself in a sticky situation when he goes searching for a toothbrush.</p><p>\u00a0</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1787365"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 1787366,
+        "url": "https://www.tvmaze.com/episodes/1787366/curb-your-enthusiasm-10x05-insufficient-praise",
+        "name": "Insufficient Praise",
+        "season": 10,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2020-02-16",
+        "airtime": "22:30",
+        "airstamp": "2020-02-17T03:30:00+00:00",
+        "runtime": 38,
+        "rating": {
+          "average": 8.1
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/240/601763.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/240/601763.jpg"
+        },
+        "summary": "<p>Larry receives a problematic gift from Freddy Funkhouser, causes trouble with Richard's new girlfriend, and offends one of Jeff's A-list clients.</p><p>\u00a0</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1787366"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 1791745,
+        "url": "https://www.tvmaze.com/episodes/1791745/curb-your-enthusiasm-10x06-the-surprise-party",
+        "name": "The Surprise Party",
+        "season": 10,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2020-02-23",
+        "airtime": "22:30",
+        "airstamp": "2020-02-24T03:30:00+00:00",
+        "runtime": 38,
+        "rating": {
+          "average": 8.2
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/242/605173.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/605173.jpg"
+        },
+        "summary": "<p>When Susie plans a surprise party for Jeff, Larry suspects she has ulterior motives, and enlists the help of his new friend Wally to ensure things don't go awry. Larry connects with a problematic inventor to develop an innovative new product.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1791745"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 1791746,
+        "url": "https://www.tvmaze.com/episodes/1791746/curb-your-enthusiasm-10x07-the-ugly-section",
+        "name": "The Ugly Section",
+        "season": 10,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2020-03-01",
+        "airtime": "22:30",
+        "airstamp": "2020-03-02T03:30:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.6
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/243/607903.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/243/607903.jpg"
+        },
+        "summary": "<p>Larry attempts to capitalize on a friend's unexpected death and takes issue with a pattern of discrimination at a trendy restaurant. Later, Larry offers his dermatologist's son a job and Richard has a suspiciously good day on the golf course.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1791746"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 1798401,
+        "url": "https://www.tvmaze.com/episodes/1798401/curb-your-enthusiasm-10x08-elizabeth-margaret-and-larry",
+        "name": "Elizabeth, Margaret and Larry",
+        "season": 10,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2020-03-08",
+        "airtime": "22:30",
+        "airstamp": "2020-03-09T02:30:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/245/613280.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/245/613280.jpg"
+        },
+        "summary": "<p>A prominent actor shadows Larry to prepare for an upcoming role. Larry meddles in the sale of Cheryl's sister's house, helps Leon grow a new business and stirs up trouble at a dinner party hosted by Richard's girlfriend.</p><p>\u00a0</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1798401"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 1798402,
+        "url": "https://www.tvmaze.com/episodes/1798402/curb-your-enthusiasm-10x09-beep-panic",
+        "name": "Beep Panic",
+        "season": 10,
+        "number": 9,
+        "type": "regular",
+        "airdate": "2020-03-15",
+        "airtime": "22:45",
+        "airstamp": "2020-03-16T02:45:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.9
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/246/615981.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/246/615981.jpg"
+        },
+        "summary": "<p>Mocha Joe hatches a plan to sabotage his adversary. Larry develops a debilitating habit and takes pity on a waitress. Richard prepares for a career-defining role.</p><p>\u00a0</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1798402"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 1801158,
+        "url": "https://www.tvmaze.com/episodes/1801158/curb-your-enthusiasm-10x10-the-spite-store",
+        "name": "The Spite Store",
+        "season": 10,
+        "number": 10,
+        "type": "regular",
+        "airdate": "2020-03-22",
+        "airtime": "22:00",
+        "airstamp": "2020-03-23T02:00:00+00:00",
+        "runtime": 40,
+        "rating": {
+          "average": 8.7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/246/615775.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/246/615775.jpg"
+        },
+        "summary": "<p>Larry runs into an unwelcome familiar face, seeks a second opinion on his knee injury and causes a rift between expectant parents.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/1801158"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 2174624,
+        "url": "https://www.tvmaze.com/episodes/2174624/curb-your-enthusiasm-11x01-the-five-foot-fence",
+        "name": "The Five-Foot Fence",
+        "season": 11,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2021-10-24",
+        "airtime": "22:40",
+        "airstamp": "2021-10-25T02:40:00+00:00",
+        "runtime": 42,
+        "rating": {
+          "average": 8.7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/369/922942.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/369/922942.jpg"
+        },
+        "summary": "<p>A discovery in Larry's backyard threatens to derail his latest creative venture, while a clumsy mishap threatens the future of his latest romance. Albert Brooks hosts an unprecedented event, and Leon makes arrangements for an upcoming trip.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2174624"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 2182880,
+        "url": "https://www.tvmaze.com/episodes/2182880/curb-your-enthusiasm-11x02-angel-muffin",
+        "name": "Angel Muffin",
+        "season": 11,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2021-10-31",
+        "airtime": "22:31",
+        "airstamp": "2021-11-01T02:31:00+00:00",
+        "runtime": 36,
+        "rating": {
+          "average": 7.7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/370/927048.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/370/927048.jpg"
+        },
+        "summary": "<p>Larry is forced to attend an ill-fated work meeting and investigates the truth behind a faulty toilet. Determined to unravel a mystery of his own, Jeff employs Larry's detective skills.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2182880"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 2193941,
+        "url": "https://www.tvmaze.com/episodes/2193941/curb-your-enthusiasm-11x03-the-mini-bar",
+        "name": "The Mini Bar",
+        "season": 11,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2021-11-07",
+        "airtime": "22:30",
+        "airstamp": "2021-11-08T03:30:00+00:00",
+        "runtime": 37,
+        "rating": {
+          "average": 8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/373/933820.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/373/933820.jpg"
+        },
+        "summary": "<p>In a last-ditch effort, Larry enlists Cheryl's help with a project and, later, concocts a plan that could finally save his newest creative venture.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2193941"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 2193942,
+        "url": "https://www.tvmaze.com/episodes/2193942/curb-your-enthusiasm-11x04-the-watermelon",
+        "name": "The Watermelon",
+        "season": 11,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2021-11-14",
+        "airtime": "22:33",
+        "airstamp": "2021-11-15T03:33:00+00:00",
+        "runtime": 39,
+        "rating": {
+          "average": 8.2
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/375/938323.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/375/938323.jpg"
+        },
+        "summary": "<p>After agreeing to take Susie's new rabbi golfing, Larry then cashes in on her favor. Later, Larry's appeal to Woody Harrelson's animal rights activism comes with unexpected consequences.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2193942"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 2193943,
+        "url": "https://www.tvmaze.com/episodes/2193943/curb-your-enthusiasm-11x05-irasshaimase",
+        "name": "IRASSHAIMASE!",
+        "season": 11,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2021-11-21",
+        "airtime": "22:30",
+        "airstamp": "2021-11-22T03:30:00+00:00",
+        "runtime": 35,
+        "rating": {
+          "average": 8.3
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/377/942727.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/377/942727.jpg"
+        },
+        "summary": "<p>After enlisting both Jeff and Freddy's help for the occasion, Larry's hot date quickly goes south. </p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2193943"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 2200225,
+        "url": "https://www.tvmaze.com/episodes/2200225/curb-your-enthusiasm-11x06-man-fights-tiny-woman",
+        "name": "Man Fights Tiny Woman",
+        "season": 11,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2021-11-28",
+        "airtime": "22:30",
+        "airstamp": "2021-11-29T03:30:00+00:00",
+        "runtime": 35,
+        "rating": {
+          "average": 8.1
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/379/947722.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/379/947722.jpg"
+        },
+        "summary": "<p>Larry navigates the complexities of requesting a new chauffeur, letting his roofer do his job, and imparting some constructive criticism to his chiropractor.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2200225"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 2205272,
+        "url": "https://www.tvmaze.com/episodes/2205272/curb-your-enthusiasm-11x07-irma-kostroski",
+        "name": "Irma Kostroski",
+        "season": 11,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2021-12-05",
+        "airtime": "22:37",
+        "airstamp": "2021-12-06T03:37:00+00:00",
+        "runtime": 33,
+        "rating": {
+          "average": 7.8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/380/952272.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/380/952272.jpg"
+        },
+        "summary": "<p>Ahead of Election Day, Larry befriends City Councilwoman Irma Kostroski while mediating a conflict between a difficult actor and his prop master.</p><p>\u00a0</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2205272"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 2216470,
+        "url": "https://www.tvmaze.com/episodes/2216470/curb-your-enthusiasm-11x08-what-have-i-done",
+        "name": "What Have I Done?",
+        "season": 11,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2021-12-12",
+        "airtime": "22:37",
+        "airstamp": "2021-12-13T03:37:00+00:00",
+        "runtime": 41,
+        "rating": {
+          "average": 8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/382/956806.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/382/956806.jpg"
+        },
+        "summary": "<p>Larry does damage control to remain in Irma's good graces while encouraging Leon to monetize his knack for husbandly counsel.</p><p>\u00a0</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2216470"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 2216471,
+        "url": "https://www.tvmaze.com/episodes/2216471/curb-your-enthusiasm-11x09-igor-gregor-timor",
+        "name": "Igor, Gregor, & Timor",
+        "season": 11,
+        "number": 9,
+        "type": "regular",
+        "airdate": "2021-12-19",
+        "airtime": "22:31",
+        "airstamp": "2021-12-20T03:31:00+00:00",
+        "runtime": 35,
+        "rating": {
+          "average": 7.1
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/384/961958.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/384/961958.jpg"
+        },
+        "summary": "<p>Larry does the right thing (and regrets it) while seizing an unprecedented opportunity to avoid Irma. Jeff seeks out a pricey peace offering for Susie.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2216471"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 2216472,
+        "url": "https://www.tvmaze.com/episodes/2216472/curb-your-enthusiasm-11x10-the-mormon-advantage",
+        "name": "The Mormon Advantage",
+        "season": 11,
+        "number": 10,
+        "type": "regular",
+        "airdate": "2021-12-26",
+        "airtime": "22:43",
+        "airstamp": "2021-12-27T03:43:00+00:00",
+        "runtime": 39,
+        "rating": {
+          "average": 7.9
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/386/965229.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/386/965229.jpg"
+        },
+        "summary": "<p>With the city council vote rapidly approaching, Larry gives some unsolicited marriage advice and hosts an event for an American hero.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2216472"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 2714239,
+        "url": "https://www.tvmaze.com/episodes/2714239/curb-your-enthusiasm-12x01-atlanta",
+        "name": "Atlanta",
+        "season": 12,
+        "number": 1,
+        "type": "regular",
+        "airdate": "2024-02-04",
+        "airtime": "22:00",
+        "airstamp": "2024-02-05T03:00:00+00:00",
+        "runtime": 35,
+        "rating": {
+          "average": 7.8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/506/1265271.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/506/1265271.jpg"
+        },
+        "summary": "<p>Larry heads to Georgia to appear at the birthday party of a prominent businessman. Leon visits his Auntie Rae. Later, Larry has some trouble with his glasses and faces off with a surly hotel cleaner</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2714239"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 2749879,
+        "url": "https://www.tvmaze.com/episodes/2749879/curb-your-enthusiasm-12x02-the-lawn-jockey",
+        "name": "The Lawn Jockey",
+        "season": 12,
+        "number": 2,
+        "type": "regular",
+        "airdate": "2024-02-11",
+        "airtime": "22:00",
+        "airstamp": "2024-02-12T03:00:00+00:00",
+        "runtime": 35,
+        "rating": {
+          "average": 7.2
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/506/1265270.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/506/1265270.jpg"
+        },
+        "summary": "<p>Still in Atlanta, Larry finds himself stuck at a rental home with a questionable lawn ornament. Meanwhile Jeff pays the price for taking Larry's advice for Susie's birthday gift.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2749879"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 2757475,
+        "url": "https://www.tvmaze.com/episodes/2757475/curb-your-enthusiasm-12x03-vertical-drop-horizontal-tug",
+        "name": "Vertical Drop, Horizontal Tug",
+        "season": 12,
+        "number": 3,
+        "type": "regular",
+        "airdate": "2024-02-18",
+        "airtime": "22:20",
+        "airstamp": "2024-02-19T03:20:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.9
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/506/1265269.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/506/1265269.jpg"
+        },
+        "summary": "<p>Larry's improved golf game causes trouble with an acclaimed actor. Freddy helps his neighbours through a delicate issue.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2757475"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 2764578,
+        "url": "https://www.tvmaze.com/episodes/2764578/curb-your-enthusiasm-12x04-disgruntled",
+        "name": "Disgruntled",
+        "season": 12,
+        "number": 4,
+        "type": "regular",
+        "airdate": "2024-02-25",
+        "airtime": "22:00",
+        "airstamp": "2024-02-26T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.6
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/506/1265272.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/506/1265272.jpg"
+        },
+        "summary": "<p>Larry finds himself in Takahashi's crosshairs after a note is found in the men's locker room. Tensions mount when Larry and Irma's couple's counselor crosses a professional line.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2764578"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 2768789,
+        "url": "https://www.tvmaze.com/episodes/2768789/curb-your-enthusiasm-12x05-fish-stuck",
+        "name": "Fish Stuck",
+        "season": 12,
+        "number": 5,
+        "type": "regular",
+        "airdate": "2024-03-03",
+        "airtime": "22:00",
+        "airstamp": "2024-03-04T03:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.7
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/507/1267796.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/507/1267796.jpg"
+        },
+        "summary": "<p>After an incident at temple, Larry asks his friends to vouch for his character while also trying to help name a baby and care for a fish.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2768789"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 2774810,
+        "url": "https://www.tvmaze.com/episodes/2774810/curb-your-enthusiasm-12x06-the-gettysburg-address",
+        "name": "The Gettysburg Address",
+        "season": 12,
+        "number": 6,
+        "type": "regular",
+        "airdate": "2024-03-10",
+        "airtime": "22:00",
+        "airstamp": "2024-03-11T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/508/1270175.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/508/1270175.jpg"
+        },
+        "summary": "<p>Larry tries to make better use of the time he spends in the bathroom, while Susie starts a new business and her advertising has unexpected results. Later, Larry gives acting advice to an A-list actress.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2774810"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 2783285,
+        "url": "https://www.tvmaze.com/episodes/2783285/curb-your-enthusiasm-12x07-the-dream-scheme",
+        "name": "The Dream Scheme",
+        "season": 12,
+        "number": 7,
+        "type": "regular",
+        "airdate": "2024-03-17",
+        "airtime": "22:00",
+        "airstamp": "2024-03-18T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.4
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/509/1273085.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/509/1273085.jpg"
+        },
+        "summary": "<p>An acquaintance from the club asks too much of Larry, while Jeff and Freddy both use Larry's tactics to get out of unwanted obligations of their own.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2783285"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 2790520,
+        "url": "https://www.tvmaze.com/episodes/2790520/curb-your-enthusiasm-12x08-the-colostomy-bag",
+        "name": "The Colostomy Bag",
+        "season": 12,
+        "number": 8,
+        "type": "regular",
+        "airdate": "2024-03-24",
+        "airtime": "22:00",
+        "airstamp": "2024-03-25T02:00:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 7.5
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/510/1275335.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/510/1275335.jpg"
+        },
+        "summary": "<p>When Richard enlists Larry's help to buy a vintage car, his careless behaviour leads to an unwanted outcome, while Jeff secretly schemes to give Larry power of attorney.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2790520"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 2794680,
+        "url": "https://www.tvmaze.com/episodes/2794680/curb-your-enthusiasm-12x09-kenkendra",
+        "name": "Ken/Kendra",
+        "season": 12,
+        "number": 9,
+        "type": "regular",
+        "airdate": "2024-03-31",
+        "airtime": "22:30",
+        "airstamp": "2024-04-01T02:30:00+00:00",
+        "runtime": 30,
+        "rating": {
+          "average": 8.1
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/511/1279079.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/511/1279079.jpg"
+        },
+        "summary": "<p>A misunderstanding with Cheryl's masseuse threatens Larry's image, then public perception of him sinks even lower when he gives the wrong person Covid-19.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2794680"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      },
+      {
+        "id": 2800200,
+        "url": "https://www.tvmaze.com/episodes/2800200/curb-your-enthusiasm-12x10-no-lessons-learned",
+        "name": "No Lessons Learned",
+        "season": 12,
+        "number": 10,
+        "type": "regular",
+        "airdate": "2024-04-07",
+        "airtime": "22:00",
+        "airstamp": "2024-04-08T02:00:00+00:00",
+        "runtime": 60,
+        "rating": {
+          "average": 8.9
+        },
+        "image": {
+          "medium": "https://static.tvmaze.com/uploads/images/medium_landscape/512/1282133.jpg",
+          "original": "https://static.tvmaze.com/uploads/images/original_untouched/512/1282133.jpg"
+        },
+        "summary": "<p>Larry returns to Atlanta, where he gets involved in Richard's love life and reveals a secret about Cheryl.</p>",
+        "_links": {
+          "self": {
+            "href": "https://api.tvmaze.com/episodes/2800200"
+          },
+          "show": {
+            "href": "https://api.tvmaze.com/shows/551",
+            "name": "Curb Your Enthusiasm"
+          }
+        }
+      }
+    ]
+  }
+}

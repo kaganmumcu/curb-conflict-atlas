@@ -1,0 +1,7 @@
+{
+  "show": "Curb Your Enthusiasm",
+  "source": "TVmaze public API",
+  "source_url": "https://api.tvmaze.com/singlesearch/shows?q=Curb%20Your%20Enthusiasm&embed=episodes",
+  "retrieved_at_utc": "2026-09-07T10:43:42.758318+00:00",
+  "license_note": "Check TVmaze attribution and API terms before redistribution."
+}
