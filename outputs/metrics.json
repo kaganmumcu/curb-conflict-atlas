@@ -1,0 +1,42 @@
+{
+  "episode_count": 120,
+  "season_count": 12,
+  "date_start": "2000-10-15",
+  "date_end": "2024-04-07",
+  "mean_episode_rating": 8.134,
+  "median_episode_rating": 8.0,
+  "highest_rated_episode": {
+    "episode_code": "S07E05",
+    "title": "Denise Handicapped",
+    "rating": 9.4
+  },
+  "lowest_rated_episode": {
+    "episode_code": "S01E04",
+    "title": "The Bracelet",
+    "rating": 7.1
+  },
+  "top_primary_theme": "Relationships & loyalty",
+  "top_primary_theme_episode_count": 35,
+  "mean_synopsis_friction_score": 24.934,
+  "friction_rating_spearman": 0.08,
+  "highest_mean_rating_season": 7,
+  "highest_mean_rating_season_value": 8.77,
+  "character_mentions": {
+    "Larry": 120,
+    "Cheryl": 34,
+    "Jeff": 42,
+    "Susie": 12,
+    "Leon": 9,
+    "Richard": 20,
+    "Ted": 3,
+    "Marty": 5
+  },
+  "most_mentioned_supporting_character": "Jeff",
+  "source": {
+    "show": "Curb Your Enthusiasm",
+    "source": "TVmaze public API",
+    "source_url": "https://api.tvmaze.com/singlesearch/shows?q=Curb%20Your%20Enthusiasm&embed=episodes",
+    "retrieved_at_utc": "2026-09-07T10:43:42.758318+00:00",
+    "license_note": "Check TVmaze attribution and API terms before redistribution."
+  }
+}
